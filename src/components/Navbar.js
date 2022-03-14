@@ -46,7 +46,7 @@ const Ham = styled.div`
       .menu-ai{
        display: flex;
      }
-     font-size: 20px;
+     font-size: 23px;
      }
  `
 
@@ -69,7 +69,7 @@ const ProfileIcon = styled.div`
 
      @media screen and (max-width: 900px){
        display: flex;
-       font-size: 20px;
+       font-size: 24px;
      }
 
 `
