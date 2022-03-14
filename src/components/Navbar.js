@@ -93,7 +93,7 @@ const NavLinks = styled.div`
        width: 50%;
        position:fixed;
        top: 0;
-       border: 1px solid red;
+       /* border: 1px solid red; */
        height: 100vh;
        left: ${({click}) => (click? 0 : '-100%')};
        z-index: 900;
