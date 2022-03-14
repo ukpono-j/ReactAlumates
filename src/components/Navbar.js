@@ -79,7 +79,6 @@ const NavLinks = styled.div`
         display: none;
      width: 200px;
      background-color: #000;
-     border: 1px solid #fff;
 
      .ximes{
        text-align: end;
